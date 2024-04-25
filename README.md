@@ -1,3 +1,4 @@
+```
 provider "aws" {
   region = local.region
 }
@@ -295,3 +296,4 @@ resource "aws_iam_role" "lambda" {
     ]
   })
 }
+```
