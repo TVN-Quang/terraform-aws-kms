@@ -1,4 +1,4 @@
-*Example*
+<h1> Example </h1>
 
 ```
 provider "aws" {
